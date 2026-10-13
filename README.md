@@ -24,6 +24,7 @@ before that.
 ### 🎨 Generative media
 - **[procedural-kids-shorts](https://github.com/MoisesAbdalla/procedural-kids-shorts)** — kids' videos where 3D animation, soundtrack and edit are 100% code (Blender `bpy` headless, NumPy, ffmpeg).
 - **[ai-content-engine](https://github.com/MoisesAbdalla/ai-content-engine)** — Instagram carousels, ads and site imagery generated with Python and Gemini image generation.
+- **[lora-dataset-pipeline](https://github.com/MoisesAbdalla/lora-dataset-pipeline)** — character LoRA from a few references: synthetic dataset with Qwen Image in ComfyUI (driven via API), captioning and Z-Image Turbo training.
 - **[html-carousel-renderer](https://github.com/MoisesAbdalla/html-carousel-renderer)** — carousels designed in HTML/CSS, rendered pixel-exact with headless Chrome.
 
 ### 🌐 Web
