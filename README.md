@@ -32,9 +32,9 @@ before that.
 
 ### 🛠️ Stack
 
-**AI:** Claude Code · Spec Kit · GSD · MCP · Claude API (tool use, prompt caching) · LLM evals · ComfyUI · Gemini · ElevenLabs
-**Languages:** TypeScript · JavaScript · Python · Dart
-**Frontend & mobile:** React · Next.js · Flutter · Tailwind CSS · Material UI · shadcn/ui
-**Backend & data:** Firebase (Auth, Firestore, Storage, FCM) · REST APIs · SQLite · PostgreSQL · MySQL
-**Media:** Blender (`bpy`) · ffmpeg · Pillow/NumPy
-**Engineering:** Clean Architecture · SOLID · Vitest · Playwright · CI/CD · Git
+- **AI:** Claude Code · Spec Kit · GSD · MCP · Claude API (tool use, prompt caching) · LLM evals · ComfyUI · Gemini · ElevenLabs
+- **Languages:** TypeScript · JavaScript · Python · Dart
+- **Frontend & mobile:** React · Next.js · Flutter · Tailwind CSS · Material UI · shadcn/ui
+- **Backend & data:** Firebase (Auth, Firestore, Storage, FCM) · REST APIs · SQLite · PostgreSQL · MySQL
+- **Media:** Blender (`bpy`) · ffmpeg · Pillow/NumPy
+- **Engineering:** Clean Architecture · SOLID · Vitest · Playwright · CI/CD · Git
