@@ -19,6 +19,7 @@ before that.
 ### 📐 Spec-Driven Development
 - **[versastore](https://github.com/MoisesAbdalla/versastore)** — full e-commerce (storefront + admin) built entirely under SDD: 15 specs, ~280 traceable tasks, hardened Firestore rules.
 - **[planner-speckit](https://github.com/MoisesAbdalla/planner-speckit)** vs **[planner-gsd](https://github.com/MoisesAbdalla/planner-gsd)** — the **same app built with two AI development methodologies**, compared side by side.
+- **[mh-wiki](https://github.com/MoisesAbdalla/mh-wiki)** — offline Monster Hunter wiki in Flutter: 11 features built with Spec Kit, Clean Architecture, build optimizer that runs fully on-device.
 
 ### 🎨 Generative media
 - **[procedural-kids-shorts](https://github.com/MoisesAbdalla/procedural-kids-shorts)** — kids' videos where 3D animation, soundtrack and edit are 100% code (Blender `bpy` headless, NumPy, ffmpeg).
